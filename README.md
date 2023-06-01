@@ -10,8 +10,12 @@ Se detalla brevemente el objetivo del curso y los temas que se abordarán.
 **Capacitadores:**
 - **Dr. Valentín Pérez-Hernández**
 - *Doctor en ciencias de los alimentos y biotecnología (Posdoctorante CINVESTAV)*
+- (http://orcid.org/0000-0001-9907-1316)
+- (https://www.researchgate.net/profile/Valentin-Perez-Hernandez-2)
 - **Dr. Mario Hernández-Guzmán**
 - *Doctor en ciencias con la especialidad en biotecnología (Posdoctorante CICESE)*
+- (http://orcid.org/0000-0003-1420-6280)
+- (https://www.researchgate.net/profile/Mario-Hernandez-Guzman)
 
 **Resumen del curso:**
 	
