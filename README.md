@@ -1,2 +1,2 @@
 # Curso_QIIME2_VERANO_2023
-Se detalla el temarío del curso
+Se detalla brevemente el objetivo del curso y los temas que se abordaran. 
