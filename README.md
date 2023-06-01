@@ -64,7 +64,4 @@ Introducción y manipulación de datos de microbioma con la paqueteria Phyloseq
 **Cupo:**
 - *15 personas*
 
-
-![image](https://github.com/valertin/Curso_QIIME2_VERANO_2023/assets/39963914/83a949ba-a653-4c83-a353-c221e2f9292d)
-
 ![CINVESTAV LOGO](https://i0.wp.com/www.udual.org/principal/wp-content/uploads/2021/06/CINVESTAV.png?w=1200&ssl=1), ![CICESE LOGO](https://www.cicese.edu.mx/assets/img/cicese.png)
