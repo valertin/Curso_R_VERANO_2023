@@ -1,8 +1,8 @@
-# Curso_QIIME2_VERANO_2023
+# Curso_R_VERANO_2023
 Se detalla brevemente el objetivo del curso y los temas que se abordaran. 
 
 
-![QIIME2](https://qiime2.org/assets/img/qiime2.svg)
+![R Y RSTUDIO](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/182px-R_logo.svg.png)
 
 
 **Introducción al análisis de datos de microbioma (16S rRNA) empleando el software R**
@@ -51,12 +51,12 @@ Introducción y manipulación de datos de microbioma con la paqueteria Phyloseq
 
 
 **Fecha:**
--	*19 al 23 de Junio 2023*
+-	*26 al 30 de Junio 2023*
 **Hora:**
 -	*15:00 a 17:00 horas
 	
 **Inscripción**
-- *Se seleccionarán a los participantes y se notificará vía correo a los aceptados. Favor de llenar el formulario: (https://forms.gle/2ZE7QcSWEW5k9hiPA)*
+- *Se seleccionarán a los participantes y se notificará vía correo a los aceptados. Favor de llenar el formulario: (https://forms.gle)*
 
 **Costo:** 
 - *Sin costo*
