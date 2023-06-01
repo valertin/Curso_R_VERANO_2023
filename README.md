@@ -1,5 +1,5 @@
-# Curso_R_VERANO_2023
-Se detalla brevemente el objetivo del curso y los temas que se abordaran. 
+# Curso R VERANO 2023-Análisis de datos en R-CINVESTAV-CICESE
+Se detalla brevemente el objetivo del curso y los temas que se abordarán. 
 
 
 ![R Y RSTUDIO](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/182px-R_logo.svg.png)
