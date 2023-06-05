@@ -60,7 +60,7 @@ Introducción y manipulación de datos de microbioma con la paqueteria Phyloseq
 -	*15:00 a 17:00 horas
 	
 **Inscripción**
-- *Se seleccionarán a los participantes y se notificará vía correo a los aceptados. Favor de llenar el formulario: (https://forms.gle)*
+- *Se seleccionarán a los participantes y se notificará vía correo a los aceptados. Favor de llenar el formulario: (https://forms.gle/qxLoMK9rwdmrgDJm7)*
 
 **Costo:** 
 - *Sin costo*
